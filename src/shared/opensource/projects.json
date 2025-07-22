@@ -4,14 +4,14 @@
       "id": "R_kgDOG0_8uQ",
       "name": "CCTV",
       "createdAt": "2024-02-11T14:50:20Z",
-      "url": "",
+      "url": "https://1drv.ms/v/c/23a4dc938f8e844c/EXfHSr-DVlZLttXaTz6EvLwBXBd94QBHyn69r1wREafnqw?e=zMyTzE",
       "description": "A VMS application that can help you manage your camera system.",
       "isFork": false,
       "languages": [
         {
           "name": "C#",
           "iconifyClass": "simple-icons:csharp"
-        },  
+        },
         {
           "name": "OpenCV",
           "iconifyClass": "simple-icons:opencv"

@@ -53,6 +53,7 @@
 .greeting-image-div > * {
   max-width: 100%;
   height: auto;
+  max-height: 720px;
 }
 
 /* Media Query */
